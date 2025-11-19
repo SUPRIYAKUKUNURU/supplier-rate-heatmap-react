@@ -1,0 +1,67 @@
+[
+  {
+    "itemCode": "ITM-1001",
+    "material": "Steel Rod",
+    "quantity": 10,
+    "estimatedRate": 100,
+    "s1": 110,
+    "s2": 90,
+    "s3": 105,
+    "s4": 120,
+    "s5": 95
+  },
+  {
+    "itemCode": "ITM-1002",
+    "material": "Aluminium Sheet",
+    "quantity": 25,
+    "estimatedRate": 250,
+    "s1": 260,
+    "s2": 245,
+    "s3": 310,
+    "s4": 270,
+    "s5": 230
+  },
+  {
+    "itemCode": "ITM-1003",
+    "material": "Copper Wire",
+    "quantity": 100,
+    "estimatedRate": 80,
+    "s1": 75,
+    "s2": 90,
+    "s3": 85,
+    "s4": 70,
+    "s5": 95
+  },
+  {
+    "itemCode": "ITM-1004",
+    "material": "Brass Nut & Bolt",
+    "quantity": 500,
+    "estimatedRate": 5,
+    "s1": 4.5,
+    "s2": 6,
+    "s3": 5.5,
+    "s4": 7,
+    "s5": 4.8
+  },
+  {
+    "itemCode": "ITM-1005",
+    "material": "Rubber Gasket",
+    "quantity": 200,
+    "estimatedRate": 35,
+    "s1": 30,
+    "s2": 40,
+    "s3": 32,
+    "s4": 38,
+    "s5": 28
+  },
+  {
+    "itemCode": "ITM-1006",
+    "material": "Hydraulic Oil",
+    "quantity": 50,
+    "estimatedRate": 450,
+    "s1": 420,
+    "s2": 480,
+    "s3": 455,
+    "s4": 500,
+    "s5": 430
+  }]

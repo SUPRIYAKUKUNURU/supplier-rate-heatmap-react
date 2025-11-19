@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Aerospace Parts",
+    "children": [
+      {
+        "name": "Structural",
+        "children": [
+          {
+            "name": "Support strut for seat mounting",
+            "children": [
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-1234",
+                "quantity": 20,
+                "rate": 40
+              },
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-1235",
+                "quantity": 10,
+                "rate": 20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brackets",
+        "children": [
+          {
+            "name": "Support strut for seat mounting",
+            "children": [
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-1236",
+                "quantity": 30,
+                "rate": 10
+              },
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-1237",
+                "quantity": 40,
+                "rate": 70
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Precision Components",
+    "children": [
+      {
+        "name": "Fasteners",
+        "children": [
+          {
+            "name": "Titanium aerospace bolt",
+            "children": [
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-2122",
+                "quantity": 30,
+                "rate": 50
+              },
+              {
+                "name": "Aerospace parts flying",
+                "itemCode": "ITEM-2123",
+                "quantity": 40,
+                "rate": 21
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
