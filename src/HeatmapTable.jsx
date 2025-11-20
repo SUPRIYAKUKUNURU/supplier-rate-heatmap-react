@@ -2,13 +2,13 @@ import React from "react";
 import heatmapData from "./data/heatmapData.json";
 
 function getHeatColor(value, min, max) {
-  if (value === min) return "rgb(0, 180, 0)";  // green
-  if (value === max) return "rgb(230, 0, 0)";  // red
+  if (value === min) return "rgb(0, 180, 0)";  
+  if (value === max) return "rgb(230, 0, 0)";  
 
   const ratio = (value - min) / (max - min);
 
   if (ratio > 0.35 && ratio < 0.65) {
-    return "rgb(255, 230, 0)"; // bright yellow
+    return "rgb(255, 230, 0)"; 
   }
 
   const r = Math.floor(255 * ratio);
@@ -79,3 +79,4 @@ export default function HeatmapTable() {
     </div>
   );
 }
+ 
